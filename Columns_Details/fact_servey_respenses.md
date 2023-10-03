@@ -20,5 +20,4 @@
 * **Limited Edition Packaging:** Some respondents are interested in limited edition packaging.
 * **Price Range:** Price ranges mentioned by respondents vary from below 50 to above 150 units of currency.
 * **Purchase Location:** Common purchase locations include supermarkets, online retailers, gyms, and local stores.
-
-Typical Consumption Situations: Energy drinks are consumed in various situations such as studying/working late, sports/exercise, and social outings/parties.
+* **Typical Consumption Situations:** Energy drinks are consumed in various situations such as studying/working late, sports/exercise, and social outings/parties.
