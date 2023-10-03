@@ -1,6 +1,6 @@
 # Marketing-Team-in-Food-beverage-with-PySpark
 
-# **Domain: **F & B   **Function:** Marketing  
+# **Domain:**F & B   **Function:** Marketing  
 
 #### CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
@@ -8,8 +8,7 @@
 
 # **Task:**
 
-# **Imagine yourself as Peter Pandey, and do the following tasks,
-**
+# **Imagine yourself as Peter Pandey, and do the following tasks,**
 * Check the “Primary_Secondary_Insights.pdf” and answer the questions by analyzing the data provided. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel, PowerPoint).
 * You can add more research questions and answer them in your presentation that suits your recommendations.
 * The target audience is the Chief Marketing Officer, you have 15 minutes to present insights to him. Make a concise presentation.
