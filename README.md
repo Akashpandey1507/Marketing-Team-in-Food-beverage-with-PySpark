@@ -6,6 +6,8 @@
 
 #### Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
+![DataBricks](https://github.com/Akashpandey1507/Marketing-Team-in-Food-beverage-with-PySpark/assets/124170332/7e33715d-ebe6-4df9-bba0-bb06d457bb77)
+
 # **Task:**
 
 # **Imagine yourself as Peter Pandey, and do the following tasks,**
