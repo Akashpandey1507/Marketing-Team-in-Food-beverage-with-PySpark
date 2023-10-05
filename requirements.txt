@@ -1,0 +1,6 @@
+1. pyspark
+2. python
+3. sql
+4. azure storage
+5. power bi
+6. analysis skills
