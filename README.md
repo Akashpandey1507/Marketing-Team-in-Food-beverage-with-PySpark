@@ -1,5 +1,10 @@
 # Marketing-Team-in-Food-beverage-with-PySpark
 
+**Tool-** Data Bricks and My SQL
+**Laungauge-** Python and SQL
+**Technology-** Microsoft Azure and Spark
+
+#**Business Problem** 
 # **Domain:** F & B   **Function:** Marketing  
 
 #### CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
