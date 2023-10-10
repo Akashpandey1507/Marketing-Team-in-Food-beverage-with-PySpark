@@ -1,7 +1,9 @@
 # Marketing-Team-in-Food-beverage-with-PySpark
 
 **Tool-** Data Bricks and My SQL
+
 **Laungauge-** Python and SQL
+
 **Technology-** Microsoft Azure and Spark
 
 #**Business Problem** 
