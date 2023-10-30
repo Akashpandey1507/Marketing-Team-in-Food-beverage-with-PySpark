@@ -6,8 +6,12 @@
 
 **Technology-** Microsoft Azure and Spark
 
-![image](https://github.com/Akashpandey1507/Marketing-Team-in-Food-beverage-with-PySpark/assets/124170332/90960fcf-ed2f-49ce-bf71-73383ce3a908)
+# Project Architecture:
 
+![image](https://github.com/Akashpandey1507/Marketing-Team-in-Food-beverage-with-PySpark/assets/124170332/7e6d05b4-16c3-47ee-8955-16cf90b5622b)
+
+# Pipeline
+![image](https://github.com/Akashpandey1507/Marketing-Team-in-Food-beverage-with-PySpark/assets/124170332/90960fcf-ed2f-49ce-bf71-73383ce3a908)
 
 # **Business Problem** 
 # **Domain:** F & B   **Function:** Marketing  
